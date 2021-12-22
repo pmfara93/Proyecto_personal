@@ -1,7 +1,6 @@
-
-
 Entorno de Desarrollo:NETBEANS
 LENGUAJE: jAVA 
+Nota importante para su ejecucion: Instalar neatbeans, ejecutarlo y dentro de la pestaña file( o archivo) seleccionar la opcion ABRIR PROYECTO.(ES POSIBLE QUE DEBA EXTRAERSE EL ARCHIVO ANTERIORMENTE).
 
 1-Ejecutar el archivo en un IDE que soporte el lenguaje JAVA ( preferentemente NETBEANS donde fue desarrollado)
 
