@@ -3,7 +3,7 @@
 Entorno de Desarrollo:NETBEANS
 LENGUAJE: jAVA 
 
-1-Ejecutar el archivo en un IDE que soporte el lenguaje JAVA ( preferentemente NETBEANS)
+1-Ejecutar el archivo en un IDE que soporte el lenguaje JAVA ( preferentemente NETBEANS donde fue desarrollado)
 
 2- Al ejecutar el programa , se abrira un panel donde se debera introducir los Datos correspondientes( primero los de la farmacia , luego
 los de usuario)
